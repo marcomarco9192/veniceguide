@@ -1,0 +1,106 @@
+#bff-img {
+    width: 100px;
+    height: 100px;
+    border: 3px solid pink;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Happy Monkey', cursive;
+    background: #a2d2ff;
+    color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    text-shadow: 0px 0px 1px black;
+}
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+#activities-section {
+    height: 300px;
+    background-color: lightcyan;
+ 
+}
+
+#activities-img {
+    display: flex;
+    text-align: center;
+}
+
+#activities-title {
+    color: orangered;
+    padding-top: 20px;
+}
+
+
+.activities-img {
+    margin: 50px 150px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#guide-section {
+    height: 200px;
+    width: 400px;
+    outline: 1px solid red;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: antiquewhite;
+    border-bottom: 10px solid yellow;
+}
+
+#guide-info {
+    margin: auto auto;
+}
+
+#guide-img {
+    margin: auto 10px;
+}
+
+#guide-title {
+    margin-bottom: 30px
+}
+
+#guide-name {
+    margin-top: 20px;
+}
+
+
+h3 {
+    outline: 1px solid red;
+}
+
+img {
+    outline: 1px solid red;
+}
